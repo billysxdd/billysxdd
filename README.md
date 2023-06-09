@@ -1,5 +1,14 @@
 ### 👋 Hi, my [Billy](https://discord.com/users/1108043141954674759)
 
+- Hi, I'm Halil ibrahim
+
+- I live in Turkey/Mersin
+
+- I am a Discord Bot Developer
+
+- I'm sharing ready-made bot for you here
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billysxdd&label=Profile%20views&color=0e75b6&style=flat" alt="billysxdd" /> </p>
 
 
