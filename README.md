@@ -9,8 +9,8 @@
 - I'm sharing ready-made bot for you here
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billysxdd&label=Profile%20views&color=0e75b6&style=flat" alt="billysxdd" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=billysxdd&label=Profile%20views&color=0e75b6&style=flat" alt="billysxdd" /> </p> 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/1851) 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=billysxdd&show_icons=true&theme=dracula&locale=en" alt="billysxdd"/></p>
 
