@@ -10,7 +10,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billysxdd&label=Profile%20views&color=0e75b6&style=flat" alt="billysxdd" /> </p> 
-<p align="left"> <img src="(https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" link="https://discord.gg/1851" /> </p> 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=billysxdd&show_icons=true&theme=dracula&locale=en" alt="billysxdd"/></p>
