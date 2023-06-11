@@ -1,8 +1,5 @@
 ### 👋 Hi, I'm [Billy](https://discord.com/users/1108043141954674759)
 
-- Hi, I'm Halil ibrahim
-
-- I live in Turkey/Mersin
 
 - I am a Discord Bot Developer
 
