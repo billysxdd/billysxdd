@@ -1,4 +1,4 @@
-### 👋 Hi, my [Billy](https://discord.com/users/1108043141954674759)
+### 👋 Hi, I'm [Billy](https://discord.com/users/1108043141954674759)
 
 - Hi, I'm Halil ibrahim
 
